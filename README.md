@@ -6,6 +6,10 @@ To implement the Vigenere Cipher substitution technique using a C program.
 
 ---
 
+#### Name: **Prahathieswaran S** 
+#### Reg No: **212225240107**
+
+
 ## DESCRIPTION
 
 The Vigenere Cipher is a polyalphabetic substitution cipher that uses a repeating keyword to encrypt plaintext. A 26 × 26 matrix called the **Vigenere Table** (or **Tabula Recta**) is constructed, where each row is a cyclic left shift of the alphabet.
